@@ -20,4 +20,5 @@ public class EditorApp {
         public TextEditor getEditor() {
             return editor;
         }
+        
 }
