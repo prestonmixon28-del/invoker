@@ -1,2 +1,2 @@
 # Journal
-Write your Journal questions and notes here.
+The editorapp uses Command objects instead of directly changing the text. This makes the code easier to change and maintain becasue the commands handles the actions.
